@@ -5,6 +5,6 @@ A repo dedicated to Rose Pine themes for Mona for Mastodon. Avaible for anyone t
 
 
 
-|Rose Pine Dawn|![Rose Pine Dawn QR Code](https://raw.githubusercontent.com/SocietasEvanescentes/RosePineForMona/main/RosePineDawnQR.png)|
+|Rose Pine Dawn|![Rose Pine Dawn QR Code](https://raw.githubusercontent.com/SocietasEvanescentes/RosePineForMona/main/RosePineDawnQR.jpeg)|
 |------------------|--------------------|
 |Rose Pine Moon|![Rose Pine Moon QR Code](https://raw.githubusercontent.com/SocietasEvanescentes/RosePineForMona/main/RosePineMoonQR.jpg)|
